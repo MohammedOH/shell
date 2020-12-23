@@ -1,0 +1,11 @@
+clr
+echo environ cmd:
+environ
+echo Hello 		from 	script 	  file 	[batchfile]
+echo dir cmd:
+dir
+echo cd cmd:
+cd ..
+echo dir cmd:
+dir
+quit
